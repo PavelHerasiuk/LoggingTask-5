@@ -1,0 +1,13 @@
+2021-03-07 18:25:56,356 INFO  [main] example.FileNameHandler (FileNameHandler.java:20) - Entering application.
+2021-03-07 18:25:56,367 INFO  [main] util.PropertiesUtil (PropertiesUtil.java:18) - Properties have been gotten
+2021-03-07 18:25:56,374 INFO  [main] util.PropertiesUtil (PropertiesUtil.java:21) - File config.properties have been read
+2021-03-07 18:25:56,377 INFO  [main] service.FileService (FileService.java:38) - Checking oldName1...
+2021-03-07 18:25:56,379 INFO  [main] service.FileService (FileService.java:41) - D:\Projects_Lab_UpSkill\LoggingTask_5\src\main\resources\configs\old_name1.json - true
+2021-03-07 18:25:56,380 INFO  [main] service.FileService (FileService.java:42) - Rename oldName1...
+2021-03-07 18:25:56,387 INFO  [main] service.FileService (FileService.java:23) - oldName1 have been renamed
+2021-03-07 18:25:56,388 INFO  [main] service.FileService (FileService.java:27) - Checking oldName2...
+2021-03-07 18:25:56,390 INFO  [main] service.FileService (FileService.java:30) - D:\Projects_Lab_UpSkill\LoggingTask_5\src\main\resources\configs\old_name2.json - true
+2021-03-07 18:25:56,392 INFO  [main] service.FileService (FileService.java:31) - Rename oldName2...
+2021-03-07 18:25:56,395 INFO  [main] service.FileService (FileService.java:18) - oldName2 have been renamed
+2021-03-07 18:25:56,396 INFO  [main] example.FileNameHandler (FileNameHandler.java:35) - [new_name1.json, new_name2.json]
+2021-03-07 18:25:56,397 INFO  [main] example.FileNameHandler (FileNameHandler.java:36) - Application closed.
